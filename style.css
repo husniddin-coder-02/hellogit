@@ -1,0 +1,17 @@
+body{
+    margin: 100px auto;
+    text-align: center;
+    align-items: center;
+    color: bisque;
+    background-color: #333333;
+}
+
+h1{
+    font-size: 85px;
+    transition: all 0.3s;
+}
+
+h1:hover{
+    color: rgb(255, 183, 0);
+}
+
